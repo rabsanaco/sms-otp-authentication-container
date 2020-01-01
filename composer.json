@@ -1,0 +1,14 @@
+{
+  "name": "rabsanaco/sms-otp-authentication-container",
+  "description": "SmsOtpAuthenticationContainer Container for apiato.",
+  "type": "apiato-container",
+  "require": {
+  },
+  "extra": {
+    "apiato": {
+      "container": {
+        "name": "SmsOtpAuthenticationContainer"
+      }
+    }
+  }
+}
